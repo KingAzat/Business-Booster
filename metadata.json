@@ -1,0 +1,6 @@
+{
+  "name": "Business Booster",
+  "description": "Gérez et propulsez votre commerce local sur Google Maps en toute sécurité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
