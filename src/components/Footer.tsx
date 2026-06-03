@@ -24,11 +24,11 @@ export default function Footer({ setCurrentTab }: FooterProps) {
             </p>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="h-3.5 w-3.5" />
-              <span>Dakar, Sénégal</span>
+              <span>Ouagadougou, Burkina Faso</span>
             </div>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <Mail className="h-3.5 w-3.5" />
-              <span>support@businessbooster.com</span>
+              <span>businessbooster.support@gmail.com</span>
             </div>
           </div>
 
@@ -98,7 +98,7 @@ export default function Footer({ setCurrentTab }: FooterProps) {
 
         <div className="border-t border-slate-800 mt-14 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
           <span className="text-xs text-slate-500">
-            © 2024 Business Booster. Tous droits réservés.
+            © 2026 Business Booster. Tous droits réservés.
           </span>
           <div className="flex gap-3">
             <div className="h-8 w-8 rounded-lg bg-slate-800 hover:bg-blue-600/20 flex items-center justify-center cursor-pointer transition-colors duration-200 group">
